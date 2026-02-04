@@ -11,19 +11,9 @@ ENV/
 # Jupyter Notebook
 .ipynb_checkpoints
 
-# Data files (optional - remove if you want to include datasets)
-*.csv
-*.tsv
-*.dat
-
-# Model files
+# Model files (often too large)
 *.pkl
 *.h5
-
-# Output files
-*.png
-*.jpg
-*.pdf
 
 # IDE
 .vscode/
@@ -34,3 +24,6 @@ ENV/
 # OS
 .DS_Store
 Thumbs.db
+
+# Note: We're allowing .csv, .png files for this project
+# since they're reasonably sized
