@@ -1,4 +1,4 @@
-# Email Spam Classifier 📧🛡️
+# Email Spam Classifier 
 
 A machine learning project that classifies emails as spam or legitimate (ham) using natural language processing and multiple classification algorithms.
 
@@ -8,7 +8,7 @@ A machine learning project that classifies emails as spam or legitimate (ham) us
 
 ---
 
-## 📋 Table of Contents
+##  Table of Contents
 
 - [Overview](#overview)
 - [Features](#features)
@@ -27,7 +27,7 @@ A machine learning project that classifies emails as spam or legitimate (ham) us
 
 ---
 
-## 🎯 Overview
+##  Overview
 
 This project implements a machine learning-based email spam detection system as part of the **Arch Technologies Machine Learning Internship Program**. The classifier uses text preprocessing, feature extraction (TF-IDF), and multiple ML algorithms to accurately identify spam messages.
 
@@ -39,7 +39,7 @@ This project implements a machine learning-based email spam detection system as 
 
 ---
 
-## ✨ Features
+##  Features
 
 - **Multiple ML Algorithms**: Naive Bayes, Logistic Regression, SVM, Random Forest
 - **Automatic Dataset Download**: Fetches SMS Spam Collection dataset automatically
@@ -52,7 +52,7 @@ This project implements a machine learning-based email spam detection system as 
 
 ---
 
-## 🎬 Demo
+##  Demo
 
 ### Example Output
 
@@ -97,7 +97,7 @@ TESTING WITH CUSTOM MESSAGES
 
 ---
 
-## 📊 Dataset
+##  Dataset
 
 ### SMS Spam Collection Dataset
 - **Source**: UCI Machine Learning Repository
@@ -120,7 +120,7 @@ Mountain View, CA, USA, 2011.
 
 ---
 
-## 🚀 Installation
+##  Installation
 
 ### Prerequisites
 - Python 3.8 or higher
@@ -158,7 +158,7 @@ pip install -r requirements.txt
 
 ---
 
-## 💻 Usage
+##  Usage
 
 ### Quick Start
 
@@ -204,7 +204,7 @@ vectorizer = TfidfVectorizer(
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 email-spam-classifier/
@@ -228,7 +228,7 @@ email-spam-classifier/
 
 ---
 
-## 📈 Models & Results
+##  Models & Results
 
 ### Model Comparison
 
@@ -261,7 +261,7 @@ Actual  Ham   965     13    ← 13 false positives (1.3%)
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 ### Core Technologies
 - **Python 3.10** - Programming language
@@ -284,7 +284,7 @@ Actual  Ham   965     13    ← 13 false positives (1.3%)
 
 ---
 
-## 📚 Learning Outcomes
+##  Learning Outcomes
 
 Through this project, I learned:
 
@@ -310,7 +310,7 @@ Through this project, I learned:
 
 ---
 
-## 🔮 Future Improvements
+##  Future Improvements
 
 ### Short-term Enhancements
 - [ ] Add deep learning models (LSTM, BERT)
@@ -334,7 +334,7 @@ Through this project, I learned:
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions are welcome! Here's how you can help:
 
@@ -363,7 +363,7 @@ Contributions are welcome! Here's how you can help:
 
 ---
 
-## 📝 License
+##  License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
@@ -379,7 +379,7 @@ in the Software without restriction...
 
 ---
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 ### Inspiration & Resources
 - **Arch Technologies** - Internship program and project guidelines
@@ -399,18 +399,15 @@ in the Software without restriction...
 
 ---
 
-## 📞 Contact
+##  Contact
 
 **Your Name** - Arch Technologies ML Intern
 
-- GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
-- Email: your.email@example.com
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/your-profile)
-- Project Link: [https://github.com/YOUR_USERNAME/email-spam-classifier](https://github.com/YOUR_USERNAME/email-spam-classifier)
+- Email: mahmumdmuhammed811@gmail.com
 
 ---
 
-## 📊 Project Statistics
+## Project Statistics
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/YOUR_USERNAME/email-spam-classifier)
 ![GitHub repo size](https://img.shields.io/github/repo-size/YOUR_USERNAME/email-spam-classifier)
@@ -431,19 +428,19 @@ This project was developed as part of **Task 1** for the **Arch Technologies Mac
 
 ---
 
-## ⭐ Show Your Support
+##  Show Your Support
 
 If you found this project helpful, please consider:
 - ⭐ Starring the repository
-- 🍴 Forking for your own experiments
-- 📢 Sharing with others learning ML
-- 🐛 Reporting bugs or suggesting features
+-  Forking for your own experiments
+-  Sharing with others learning ML
+-  Reporting bugs or suggesting features
 
 ---
 
 <div align="center">
 
-**Made with ❤️ by [Your Name]**
+**Made with passion for ML**
 
 *Learning Machine Learning, One Project at a Time*
 
